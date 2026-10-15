@@ -79,7 +79,7 @@ export function AssetAmountPicker({
             type="text"
             inputMode="decimal"
             placeholder="0.00"
-            className={`h-auto px-4 py-3 ${showError ? 'border-destructive' : ''}`}
+            className={`h-auto px-4 py-3 text-[16px] ${showError ? 'border-destructive' : ''}`}
             value={amount}
             onChange={(event) => {
               const val = event.target.value
