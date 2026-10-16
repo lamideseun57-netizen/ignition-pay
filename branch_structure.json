@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-880-web-023-transaction-detail-page-id-does-not",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-880-web-023-transaction-detail-page-id-does-not": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-880-web-023-transaction-detail-page-id-does-not",
+    "origin"
+  ]
+}
